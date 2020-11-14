@@ -1,0 +1,10 @@
+name: "my_first_website"
+output_dir: "."
+navbar:
+  title: "My Favorite Books!"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
